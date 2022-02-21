@@ -63,6 +63,7 @@ header {
      display: flex;
      justify-content: center;
      align-items: center;
+     overflow: hidden;
  }
 
  section::before {
@@ -100,6 +101,7 @@ header {
      white-space: nowrap;
      font-size: 7.5vw;
      z-index: 9;
+     right: -350px;
      
  } 
 
